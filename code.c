@@ -19,3 +19,12 @@ void main()
    {
       temp1=pr[i];
       pr[i]=pr[j];
+      pr[j]=temp1;
+      temp1=pt[i];
+      pt[i]=pt=[j];
+      pt[j]=temp1;
+      strcpy(p[i],p[j]);
+      strcpy(p[j],temp)
+    }
+  }
+}
